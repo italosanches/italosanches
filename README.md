@@ -1,11 +1,11 @@
 ## Olá, eu sou o Italo Sanches 👋
 - 🔭 Hoje trabalho com Low Code 
 - 🌱 Estudando C#, .Net, Asp.Net e Docker 
-<table>
+
  <img height="200" align="left" src="https://github-readme-stats.vercel.app/api?username=italosanches&show_icons=true&theme=dark&locale=pt-br">
  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=italosanches&layout=compact&theme=dark&hide=Rich%20Text%20Format&locale=pt-br">
 
-</table>
+
 
 
 <div style="display: inline_block" align="center"><br>
