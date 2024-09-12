@@ -2,11 +2,16 @@
 - 🔭 Hoje trabalho com Low Code 
 - 🌱 Estudando C#, .Net, Asp.Net e Docker 
 
- <img height="200" align="left" src="https://github-readme-stats.vercel.app/api?username=italosanches&show_icons=true&theme=dark&locale=pt-br">
- <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=italosanches&layout=compact&theme=dark&hide=Rich%20Text%20Format&locale=pt-br">
-
-
-
+<table>
+  <tr>
+    <td>
+      <img height="200" src="https://github-readme-stats.vercel.app/api?username=italosanches&show_icons=true&theme=dark&locale=pt-br">
+    </td>
+    <td>
+      <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=italosanches&layout=compact&theme=dark&hide=Rich%20Text%20Format&locale=pt-br">
+    </td>
+  </tr>
+</table>
 
 <div style="display: inline_block" align="center"><br>
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
