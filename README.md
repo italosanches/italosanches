@@ -2,8 +2,18 @@
 - 🔭 Hoje trabalho com Low Code 
 - 🌱 Estudando C#, .Net, Asp.Net e Docker 
 <div>
-<img height="200" src ="https://github-readme-stats.vercel.app/api?username=italosanches">
-<img height="200" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=italosanches&layout=compact">
+<picture >
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=italosanches&show_icons=true&theme=dark&locale=pt-br"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=italosanches&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=italosanches&show_icons=true" />
+</picture>
+<img height="195" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=italosanches&layout=compact&theme=dark&hide=Rich%20Text%20Format&locale=pt-br">
 </div>
 
 
