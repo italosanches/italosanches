@@ -1,5 +1,5 @@
 ## Olá, eu sou o Italo Sanches 👋
-- 🔭 Hoje trabalho com Low Code 
+- 🔭 Desenvolvedor .Net FullStack 
 - 🌱 Estudando C#, .Net, Asp.Net e Docker 
 
 <table>
